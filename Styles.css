@@ -10,6 +10,24 @@ h1{
 	color: white;
 }
 
+.innav{
+	color: magenta;
+}
+
+.pg{
+	max-height: 20rem;
+}
+
+.card{
+	height: 100%;
+	background: darkgrey;
+	color: white;
+}
+
+p{
+	color: white;
+}
+
 .nav{
 	background: turquoise;
 }
@@ -21,13 +39,13 @@ h1{
 }
 
 .btn-primary{
-	background-color: violet;
-	border-color: purple;
+	background-color: magenta;
+	border-color: magenta;
 }
 
 .btn-primary:hover{
-	background-color: turquoise;
-	border-color: turquoise;
+	background-color: purple;
+	border-color: purple;
 	border-width: 4px;
 }
 
@@ -36,7 +54,7 @@ h1{
 }
 
 .Sub{
-	background: purple;
+	background: magenta;
 	color: white;
 }
 .buffer{
@@ -58,8 +76,8 @@ h1{
 
 hr {
     margin: 20px auto;
-    color: violet;
-    border: 3px solid violet;
+    color: magenta;
+    border: 3px solid magenta;
     max-width: 65px;
     opacity: 1;  
 }
